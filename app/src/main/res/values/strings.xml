@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_details">Details</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_price">Price</string>
+    <string name="et_name">Please input the name</string>
+    <string name="et_price">Please input the price</string>
+    <string name="tv_perishable">Is the product perishable?</string>
+    <string name="rg_yes">YES</string>
+    <string name="rg_no">NO</string>
+    <string name="is_p">This product is perishable.</string>
+    <string name="isnot_p">This product is not perishable.</string>
+    <string name="openJson">Open JSON</string>
+    <string name="openXml">Open Xml</string>
+</resources>
